@@ -13,4 +13,4 @@ Deskripsi:
 6. Kecepatan Suzuki maksimum 150 Km/jam
 7. Ketika mesin belum dinyalakan, Mobil tidak dapat melakukan penambahan atau pengurangan kecepatan
 8. Ketika mesin menyala, Mobil diharuskan untuk dinyalakan terlebih dahulu
-9. Project dikumpulkan di repositori Git ini dengan format folder: KUIS1PBO_NIM_NAMA
+9. Project dikumpulkan di repositori Git ini dengan format folder: LIVEKUIS_PBO_NIM_NAMA
